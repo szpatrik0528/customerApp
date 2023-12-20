@@ -12,7 +12,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/listView"
-        android:divider="#FF0000"
+        android:divider="#ccc"
         android:dividerHeight="2dp"
         android:listSelector="#0f0"/>
     
